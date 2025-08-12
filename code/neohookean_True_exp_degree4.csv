@@ -1,0 +1,2 @@
+degree,dofs,level,nu,E,gamma,errorDisplacement,errorPressure,errorStress,errorIncompressibility
+4,898,0,0.5,1.0,1000.0,4.123095274233418,0.2608700042063741,0.2682039718263772,0.012179206024692973
